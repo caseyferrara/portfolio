@@ -3,7 +3,7 @@
 title: Casey Ferrara Portfolio
 logo: '/images/CFlogowhitesmall.png'
 description: Portfolio for Casey Ferrara.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
