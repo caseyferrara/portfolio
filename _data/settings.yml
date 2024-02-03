@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Casey Ferrara
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/portfolio/images/CFlogowhitesmall.png'
 description: Portfolio for Casey Ferrara.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -31,12 +31,12 @@ menu__settings:
 author:
   author__name: Casey Ferrara Portfolio
   author__bio: Thanks for visiting!
-  author__avatar: '/images/CY0A4610.jpg'
+  author__avatar: '/portfolio/images/CY0A4610.jpg'
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/caseyferrara"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/casey-ferrara/"}
-- {icon: "ion-logo-email", link: "mailto:caseyferrara@proton.me"}
+- {icon: "ion-icon-mail", link: "mailto:caseyferrara@proton.me"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -48,7 +48,7 @@ hero:
   enable: true
   hero__title: Hi, my name is Casey Ferrara.
   hero__description: Senior Operations Analyst transforming complex data into actionable insights, driving informed decision-making.
-  hero__image: "/images/CY0A4610.jpg"
+  hero__image: "/portfolio/images/CY0A4610.jpg"
 
 
 #-------------------------------
@@ -175,7 +175,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: "/portfolio/images/bg.jpg"
 
 #-------------------------------
 # Contact Settings
