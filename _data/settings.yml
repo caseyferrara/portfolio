@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: CF
-logo: '/portfolio/images/CFlogowhitesmall.png'
+logo:
 description: Portfolio for Casey Ferrara.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -16,15 +16,8 @@ menu__settings:
       url: '/about/'
     - title: 'Work'
       url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/portfolio/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
-
+    - title: 'Contact'
+      url: '/contact/'
 
 #-------------------------------
 # Author Settings
@@ -164,7 +157,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
+  enable: false
 
 blog__settings:
   blog__title: Writing
