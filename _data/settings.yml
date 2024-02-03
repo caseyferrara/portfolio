@@ -1,5 +1,6 @@
 #-------------------------------
 # Site Settings
+title: CF
 logo: '/portfolio/images/CFlogowhitesmall.png'
 description: Portfolio for Casey Ferrara.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -30,7 +31,7 @@ menu__settings:
 author:
   author__name: Casey Ferrara
   author__bio: Senior Operations Analyst transforming complex data into actionable insights, driving informed decision-making.
-  author__avatar: '/portfolio/images/CY0A4610.jpg'
+  author__avatar: '/portfolio/images/CY0A4604.jpg'
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/caseyferrara"}
