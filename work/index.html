@@ -20,14 +20,14 @@ description: Dive into my projects to uncover detailed data analysis and insight
     {% for work in site.works reversed %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
-          <a href="{{ work.url }}" class="work__image">
-            <img class="lazy" data-src="{{ work.image }}" alt="{{ work.title }}">
+          <a href="{{ site.baseurl }}{{ work.url }}" class="work__image">
+            <img class="lazy" data-src="{{ site.baseurl }}{{ work.image }}" alt="{{ work.title }}">
           </a>
           <div class="work__info">
             {% if work.category %}
             <div class="work__category">{{ work.category }}</div>
             {% endif %}
-            <h3 class="work__title"><a href="{{ work.url }}">{{ work.title }}</a></h3>
+            <h3 class="work__title"><a href="{{ site.baseurl }}s{{ work.url }}">{{ work.title }}</a></h3>
             {% if work.description %}
             <p class="work__description">{{ work.description }}</p>
             {% endif %}
