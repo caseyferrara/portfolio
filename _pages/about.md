@@ -3,7 +3,7 @@ layout: page
 title: About
 description:
 permalink: /about/
-image: '/simages/4D9A7422.jpg'
+image: '/images/4D9A7422.jpg'
 ---
 
 📊 Data Guru: Expert in turning complex data into actionable insights.
@@ -19,11 +19,7 @@ image: '/simages/4D9A7422.jpg'
     <img src="/portfolio/images/Noyo_Logo.jpg" loading="lazy">
     <img src="/portfolio/images/statefarmlogo-vertical.png" loading="lazy">
   </div>
-  <em>Companies I've worked with</em>
+  <em>Companies I've worked for</em>
 </div>
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/portfolio/images/4D9A7426.jpg" loading="lazy">
-  </div>
-</div>
+> Data is a precious thing and will last longer than the systems themeselves - Tim Berners-Lee
