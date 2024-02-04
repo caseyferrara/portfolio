@@ -5,7 +5,7 @@ category: Case Study
 date: 2023-12-27 08:01:35 +0300
 client: Bellabeat
 role: Data Analyst
-image: 'images/bellabeat.jpeg'
+image: '/images/bellabeat.jpeg'
 image_caption:
 ---
 
