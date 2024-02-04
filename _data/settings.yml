@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Casey Ferrara Portfolio
-logo: '/portfolio/images/CFlogowhitesmall.png'
+logo: '/images/CFlogowhitesmall.png'
 description: Portfolio for Casey Ferrara.
 color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -24,7 +24,7 @@ menu__settings:
 author:
   author__name: Casey Ferrara
   author__bio: Find me on social media.
-  author__avatar: '/portfolio/images/CY0A4604.jpg'
+  author__avatar: '/images/CY0A4604.jpg'
 
 social:
 - {icon: "ion-logo-github", link: "https://github.com/caseyferrara"}
@@ -40,7 +40,7 @@ hero:
   enable: true
   hero__title: Hi, my name is Casey Ferrara.
   hero__description: Senior Operations Analyst transforming complex data into actionable insights, driving informed decision-making.
-  hero__image: "/portfolio/images/4D9A7422.jpg"
+  hero__image: "/images/4D9A7422.jpg"
 
 
 #-------------------------------
@@ -91,7 +91,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/portfolio/images/bg.jpg"
+footer__background__image: "/images/bg.jpg"
 
 #-------------------------------
 # Contact Settings
