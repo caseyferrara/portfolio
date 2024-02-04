@@ -2,10 +2,10 @@
 title: Bellabeat Application
 description: This study aims to conduct a thorough analysis of consumer behavior using non-Bellabeat smart devices, with a focus on identifying key trends in health and lifestyle technology usage. By diving into data on activity patterns, and sleep habits, the goal is to extract actionable insights that will inform strategic enhancements for the Bellabeat app. This analysis is intended to provide Bellabeat with in-depth market understanding, guiding feature development and overall business strategy to align with consumer needs and preferences.
 category: Case Study
-date: 2023-02-04 08:01:35 +0300
+date: 2023-12-27 08:01:35 +0300
 client: Bellabeat
 role: Data Analyst
-image: '/portfolio/images/Bellabeat.jpg'
+image: '/images/Bellabeat.jpg'
 image_caption:
 ---
 
