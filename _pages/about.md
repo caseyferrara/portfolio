@@ -3,7 +3,7 @@ layout: page
 title: About
 description:
 permalink: /about/
-image: '/images/CY0A4604.jpg'
+image: '/images/CY0A4610.jpg'
 ---
 
 📊 Data Guru: Expert in turning complex data into actionable insights.
