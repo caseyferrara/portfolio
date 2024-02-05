@@ -14,12 +14,17 @@ image: '/images/CY0A4610.jpg'
 
 🗂️ Project Management Pro: Adept at managing timelines and ensuring successful project delivery.
 
-> Data is a precious thing and will last longer than the systems themeselves - Tim Berners-Lee
+> Data is a precious thing and will last longer than the systems themeselves
+>
+> <cite>– Tim Berners-Lee</cite>
+
+# My personal life
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/portfolio/images/4D9A7422.jpg" loading="lazy">
-    <img src="/portfolio/images/CY0A4604.jpg" loading="lazy">
-    <img src="/portfolio/images/CY0A4610.jpg" loading="lazy">
+    <img src="/portfolio/images/mountains.jpg" loading="lazy">
+    <img src="/portfolio/images/technology.jpg" loading="lazy">
+    <img src="/portfolio/images/videogame.jpg" loading="lazy">
   </div>
+  <em>Passion for traveling, anything technology related, and of course video games!</em>
 </div>
