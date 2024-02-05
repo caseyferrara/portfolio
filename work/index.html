@@ -27,7 +27,7 @@ description: Dive into my projects to uncover detailed data analysis and insight
             {% if work.category %}
             <div class="work__category">{{ work.category }}</div>
             {% endif %}
-            <h3 class="work__title"><a href="{{ site.baseurl }}s{{ work.url }}">{{ work.title }}</a></h3>
+            <h3 class="work__title"><a href="{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a></h3>
             {% if work.description %}
             <p class="work__description">{{ work.description }}</p>
             {% endif %}
