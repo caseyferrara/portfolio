@@ -22,9 +22,9 @@ image: '/images/CY0A4610.jpg'
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/portfolio/images/mountains.jpg" loading="lazy">
-    <img src="/portfolio/images/technology.jpg" loading="lazy">
-    <img src="/portfolio/images/videogame.jpg" loading="lazy">
+    <img src="/images/mountains.jpg" loading="lazy">
+    <img src="/images/technology.jpg" loading="lazy">
+    <img src="/images/videogame.jpg" loading="lazy">
   </div>
   <em>Passion for traveling, anything technology related, and of course video games!</em>
 </div>
